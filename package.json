@@ -1,0 +1,17 @@
+{
+  "name": "workers-site-demo",
+  "description": "A demo for a more complex client and server side applications using Cloudflare Workers and Worker Sites",
+  "author": "Daniel Larkin <daniel@larkin.nz>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "./wranger build",
+    "preview": "./wranger preview --watch",
+    "publish": "./wrangler publish"
+  },
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "^0.0.9",
+    "extra-watch-webpack-plugin": "^1.0.3",
+    "webpack": "^4.42.1"
+  }
+}

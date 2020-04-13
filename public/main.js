@@ -1,0 +1,1 @@
+/media/data/OpenProjects/lights/purplehaze/dist/client.js

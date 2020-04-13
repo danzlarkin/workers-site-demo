@@ -1,0 +1,4 @@
+node_modules
+worker-output/node_modules
+worker-output/worker
+worker-output/*.js

@@ -1,0 +1,9 @@
+name = "workers-site-demo"
+type = "webpack"
+account_id = ""
+workers_dev = true
+webpack_config = "webpack.config.js"
+
+[site]
+entry-point = "worker-output"
+bucket = "./public"
