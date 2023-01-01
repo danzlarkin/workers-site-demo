@@ -12,6 +12,6 @@
   "dependencies": {
     "@cloudflare/kv-asset-handler": "^0.0.9",
     "extra-watch-webpack-plugin": "^1.0.3",
-    "webpack": "^4.42.1"
+    "webpack": "^5.75.0"
   }
 }
